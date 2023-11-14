@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap:https://ecommerce.onlinedemolink.com/sitemap.xml
+Sitemap:https://ecommerce.onlinedemolink.com/sitemap_1.xml
